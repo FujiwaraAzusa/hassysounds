@@ -1,0 +1,8 @@
+{
+  "name": "hassysounds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "3524ced5"
+}
